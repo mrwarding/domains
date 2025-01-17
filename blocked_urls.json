@@ -2,6 +2,7 @@
     "blockedUrls": [
         "example.com",
         "malicious-site.net",
-        "phishing-site.org"
+        "phishing-site.org",
+        "google.com"
     ]
 }
