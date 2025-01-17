@@ -1,0 +1,7 @@
+{
+    "blockedUrls": [
+        "example.com",
+        "malicious-site.net",
+        "phishing-site.org"
+    ]
+}
