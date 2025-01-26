@@ -1,5 +1,13 @@
-[
-  "x.com/xonaforum",
-  "x.com/ethereum",
-  "x.com/PancakeSwap"
-]
+{
+    "blockedUrls": [
+        "x.com/cndl_ai",
+        "x.com/cnp_ninjadao",
+        "x.com/SilentMetaWorld",
+        "x.com/DecayVerse",
+        "x.com/harmony_meeting",
+        "x.com/voxiumcommunity",
+        "x.com/rocketglxworld",
+        "x.com/typerdexapp",
+        "x.com/seleniumfinance"
+    ]
+}
