@@ -5,7 +5,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "https://ward.wtf/download.php?type=exe"
+        "url": "https://hawklock.in/download.php?type=exe"
       }
     },
     "condition": {
